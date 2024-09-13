@@ -1,9 +1,7 @@
-## Hi there 👋
+## Heyyyy, 👋
 
-<!--
-**shadowx5671/shadowx5671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ich bin **Shadow** und programmiere in C#, Java und Python. Mir gehört der Discord Server ♡ Ayakas Gruft ♡ für diesen ich unteranderem auch Discord Bots programmiere! 
+Auf meinen Profil findest du auch alle Source Codes von meinen Discord Bot. Diese sind alle Open Source. Wenn dir einer meiner Discord Bots gefällt, kannst du dir gerne das Repository cloonen und den Bot für deinen Discord Server personalisieren. Die Codes werden auch regelmäßig aktualliesiert. Es lohnt sich also alle paar Jahren den Bot zu Updaten! 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
