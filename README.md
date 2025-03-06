@@ -6,9 +6,9 @@ Auf meinen Profil findest du auch alle Source Codes von meinen Discord Bot. Dies
 
 **Repositorys zum Klonen um Bots für deinen Server zu erstellen:**
 
-● ⚜️ Allgemeiner Server-Discord-Bot (Yun Jin)
+● ⚜️ Steam
 
-       ~ Ein Bot für einen Discord Server der Level System und vieles mehr verwaltet.
+       https://steamcommunity.com/profiles/76561199082131433
        
 ● 💠 Musik Discord-Bot (Venti)
 
