@@ -6,13 +6,8 @@ Auf meinen Profil findest du auch alle Source Codes von meinen Discord Bot. Dies
 
 **Repositorys zum Klonen um Bots für deinen Server zu erstellen:**
 
-● ⚜️ Steam
-
-       https://steamcommunity.com/profiles/76561199082131433
+● ⚜️ [Steam](https://steamcommunity.com/profiles/76561199082131433)
        
-● 💠 Musik Discord-Bot (Venti)
-
-       ~ Soon
-
+● 💠 [Spotify](https://open.spotify.com/user/1n03tuzct87sfymu50304rsl8) 
 
 💝 Mein Discord Server: https://dsc.gg/ayakasgruft
