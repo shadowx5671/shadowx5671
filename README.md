@@ -15,3 +15,5 @@ Auf meinen Profil findest du auch alle Source Codes von meinen Discord Bot. Dies
 ● 📀 [Twitch](https://www.twitch.tv/shadowx5671) 
 
 ● 💽 [Tiktok](https://www.tiktok.com/@shadowx5671)
+
+● 📄 [Twitter](https://x.com/shadowx5671)
