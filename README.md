@@ -8,4 +8,4 @@ Heyy, I'm Shadow and I work as a Software Developer. I love Anime and Cosplays. 
 
 ・Xander Discord Bot
 
-・OEBB FAP
+・OEBB FEC
